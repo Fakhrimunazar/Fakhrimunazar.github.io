@@ -1,0 +1,78 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container {
+  height: 350px;
+}
+
+.n2 {
+  border: 1px solid #f0ecec;
+}
+
+.n3 {
+  border: 1px solid #f0ecec;
+}
+
+.gmbr-1 {
+  position: relative;
+  right: 30px; }
+
+
+  .gmbr-2 {  position: relative; 
+          right: -20px; 
+          top: 30px; }
+
+
+          
+
+   .whatsapp { position: fixed; 
+            right: 30px; 
+            top: 490px;
+            z-index:9999; 
+            
+              }
+
+  
+
+.parallax img {
+  filter: grayscale(1);
+  opacity: 0.5;
+}
+
+.parallax-container .call { position: relative;
+                          
+                          
+}
+
+.call { top: 7px; }
+
+
+
+section,
+footer {
+  padding: 10px 0;
+}
+
+.portfolio img {
+  width: 220px;
+  height: 170px;
+  float: left;
+  padding: 7px;
+  box-align: center;
+  line-height: 200px;
+}
+
+.clear { clear:both }
+
+.contact h5 {
+  position: relative;
+  bottom: 15px;
+}
+
+.contact p {
+  position: relative;
+  bottom: 10px;
+}
